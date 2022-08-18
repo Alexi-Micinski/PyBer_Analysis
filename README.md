@@ -22,4 +22,10 @@ In the first quarter of the year 2019, fares peak for all city types in late Feb
 
 ## Summary: 
 
-Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types
+Business recommendations for addressing disparities among city types:
+
+1. 
+
+2. 
+
+3. 
