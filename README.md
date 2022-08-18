@@ -7,8 +7,10 @@ A ride sharing summary dataframe will be created for ride sharing data based on 
 
 ## Results:
 
-![Screen Shot 2022-08-17 at 7 23 52 PM](https://user-images.githubusercontent.com/106785377/185271626-e7076cbe-e74d-4bb1-8208-8020d71ff063.png)
-![Screen Shot 2022-08-17 at 7 24 58 PM](https://user-images.githubusercontent.com/106785377/185271712-5788e3c8-2a1d-4709-b36f-c19357be3325.png)
+![Screen Shot 2022-08-17 at 7 35 40 PM](https://user-images.githubusercontent.com/106785377/185272907-b749ccd0-8199-4d34-a502-503d9fccb656.png)
+
+![Screen Shot 2022-08-17 at 7 36 08 PM](https://user-images.githubusercontent.com/106785377/185272943-147588a2-1672-464f-8efe-4b6fb8c43a7f.png)
+
 
 Rural city types have the fewest number of total rides, total drivers, and total fares. Urban city types have the highest number of total rides, total drivers, and total fares. 
 
