@@ -22,4 +22,10 @@ In the first quarter of the year 2019, fares peak for all city types in late Feb
 
 ## Summary: 
 
-Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types
+Business recommendations for addressing disparities among city types:
+
+1. Offer a promotion at the start of March, when total fares dips in all city types from the end of February.
+
+2. Determine if there is a causative correlation between number of rides, city type, and/or average fare per ride. Are there less rides in rural cities because there are less people or because there are less drivers? Do drivers charge more in rural cities because trips are farther or because they get less total rides? Answering these questions will help determine how to increase total fare in rural cities.
+
+3. The average fare per driver is less than the average fare per ride for drivers in urban cities. This is not the case for other city types. Increasing driver pay may increase total fare for urban cities.
