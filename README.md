@@ -2,7 +2,7 @@
 
 ## Overview
 
-Explain the purpose of the new analysis
+A ride sharing summary dataframe will be created for ride sharing data based on city type: urban, suburban, or rural. The total weekly fares for each city type will be analyzed using line graphs. The analysis will be used to make decisions based on how the data differs by city type.
 
 ## Results:
 
